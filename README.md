@@ -19,6 +19,7 @@ pip install requests
 
 ## Exercices to explore
 
+* Working with files and folders
 * Rest API Call
 * Building an HTML report
 * Lint Test
