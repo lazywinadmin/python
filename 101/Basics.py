@@ -1,4 +1,6 @@
 # https://www.learnpython.org/
+# https://realpython.com/
+# https://realpython.com/learning-paths/python-devops/
 
 # Hello, World!
 print("Hello Xavier") #Hello Xavier
@@ -44,3 +46,5 @@ print(helloworld)
 # Multi assignements
 a, b = 3, 4
 print(a,b)
+
+
