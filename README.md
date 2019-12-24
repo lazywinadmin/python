@@ -8,12 +8,11 @@
 
 ## Requirements
 
-
 ```
 # install pip (in ubuntu)
 sudo apt install python-pip
 
-# download a module
+# download a module (example with 'requests' module)
 pip install requests
 ```
 
