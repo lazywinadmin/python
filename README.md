@@ -11,6 +11,8 @@
 ```
 # install pip (in ubuntu)
 sudo apt install python-pip
+# for python3
+sudo apt install python3-pip
 
 # download a module (example with 'requests' module)
 pip install requests
@@ -27,3 +29,5 @@ pip install requests
 * Pass parameters to functions, script
 * Build module
 * Querying local and remote machine over different protocol
+
+##
