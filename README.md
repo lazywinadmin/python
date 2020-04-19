@@ -1,7 +1,13 @@
 # Python
 
+## Learning Python
+
+-[]
+https://app.pluralsight.com/library/courses/getting-started-python-core/learning-check
+
 ## Resources
 
+* https://learnpythonthehardway.org/book/ (Learn Python the hard way, free ebook online)
 * https://www.learnpython.org/
 * https://realpython.com/
 * https://realpython.com/learning-paths/python-devops
@@ -16,6 +22,8 @@ sudo apt install python3-pip
 
 # download a module (example with 'requests' module)
 pip install requests
+# install jinja
+pip3 install jinja2
 ```
 
 ## Exercices to explore
