@@ -4,6 +4,7 @@
 
 -[]
 https://app.pluralsight.com/library/courses/getting-started-python-core/learning-check
+* [Practical Python](https://github.com/dabeaz-course/practical-python)
 
 ## Resources
 
